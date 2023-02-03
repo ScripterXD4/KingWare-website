@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+    border-color: black;
+    border-radius: 100px;
+    font-family: 'Kanit', sans-serif;
+}
+
+h2 {
+    color: white;
+}
+
+.KingWareDiscord {
+    background-color: black;
+    color: white;
+    border-color: yellow;
+    border-radius: 100px;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+
+p {
+    color: red;
+}
+
+.Lines {
+    border-color: green;
+}
